@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year BSc Computer Science student graduating with First Class Honours. Interested in software development, web technologies, cloud computing and artificial intelligence. Experienced in building full-stack applications using JavaScript, React, Node.js, Python and AWS. Passionate about learning new technologies and developing practical solutions to real-world problems.
+First Class Honours BSc Computer Science graduate. Interested in software development, web technologies, cloud computing and artificial intelligence. Experienced in building full-stack applications using JavaScript, React, Node.js, Python and AWS. Passionate about learning new technologies and developing practical solutions to real-world problems.
 
 
 ## 🌐 Socials:
