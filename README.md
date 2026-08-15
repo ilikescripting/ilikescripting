@@ -1,5 +1,5 @@
 # 💫 About Me:
-First Class Honours BSc Computer Science graduate with a particular interest in gameplay programming and C++. Building hands-on experience with state machines, gameplay systems and monetisation mechanics, alongside broader experience in full-stack development (JavaScript, React, Node.js), Python and AWS. Enjoy solving practical engineering problems and continuously learning new tools and technologies.
+First Class Honours BSc Computer Science graduate with a strong interest in software engineering, AI and full-stack development. Experienced building applications across Python, TypeScript, JavaScript, C++, C# and AWS, with hands-on experience in AI, cloud systems, web development and software testing. Interested in building reliable software, solving practical engineering problems and exploring modern AI-assisted development workflows.
 
 
 ## 🌐 Socials:
